@@ -3,7 +3,7 @@ A field trip permission slip application
 
 Web application project created during Software Engineering for a Client. 
 
-Technologies: ASP.NET MVC, C#, HTML, CSS, SQL Server, 
+Technologies: ASP.NET MVC, C#, HTML, CSS, SQL Server, Visual Studio 2015
 
 August 2016 - December 2016
 
